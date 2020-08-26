@@ -1,2 +1,5 @@
-# Automatic-Alert-Based-Switch-with-Motion-Sensor
+#Automatic-Alert-Based-Switch-with-Motion-Sensor
+
+##Proposed Model
  
+![](images/you-picture.png)
